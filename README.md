@@ -1,5 +1,6 @@
 # 2024年度入学生-卒業制作
 
+- [質問フォーム](https://docs.google.com/forms/d/e/1FAIpQLSclKAtaxsYzmbKEznZGdt4FYOMcrj_2dTDW4qGiIkazT6g49Q/viewform?usp=dialog)
 - [Google Meet](https://meet.google.com/bwb-njcm-udh)
 - [講義日程](https://github.com/datgm25/design/blob/main/thu.md)
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSdtCrSbaVfK9kttxBd6T577bJhaQ1RXeWdHg7h03dKhlvEm9g/viewform)
